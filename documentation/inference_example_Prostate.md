@@ -76,3 +76,5 @@ a _0000 to the file name if only one input modality is required). Instructions c
    downloaded as part of the pretrained model weights and are located at `RESULTS_FOLDER/nnUNet/ensembles/
    Task005_Prostate/ensemble_2d__nnUNetTrainerV2__nnUNetPlansv2.1--3d_fullres__nnUNetTrainerV2__nnUNetPlansv2.1/postprocessing.json`. 
    We will make the postprocessing files more accessible in a future (soon!) release.
+
+<!-- Auto-update: 2025-10-14T04:30:26.652174 -->
